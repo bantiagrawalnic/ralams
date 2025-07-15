@@ -3,7 +3,7 @@
 			<div class="modal-content">
 
 				<!-- Modal Header -->
-				<div class="modal-header text-center d-block p-5 border-bottom-0">
+				<div class="modal-header text-center d-block p-5 border-bottom-0" id="">
 					<h2 class="modal-title">Feedback</h2>
 					<button type="button" class="close position-absolute" style="right: 15px; top: 8px;" data-dismiss="modal">&times;</button>
 				</div>
