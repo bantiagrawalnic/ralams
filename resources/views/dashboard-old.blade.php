@@ -15,9 +15,9 @@
 		
         <!-- Content Row -->
 
-        <div class="my-1" id="b-homedb">
+        <div class="my-1" id="latest-Data">
 
-			<div class="container">
+			<div class="container" id="">
 				<h4 class="text-center mb-3 b-latest-data">Latest Data</h4>
 				<div class="pl-4 text-right" style="font-size: 24px">
 					<span class="mr-2" id="one-item-row" style="cursor: pointer;">
